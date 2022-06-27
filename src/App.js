@@ -8,7 +8,7 @@ function App() {
       <div className="row">
         <div className="col">
 
-          <h1>Kunda H1</h1>
+          <h1>H1 Pyčo</h1>
           <Button>Pyčo</Button>
           <Button className='ml-3'
                   icon={Button.ICON.APP_LIST}
